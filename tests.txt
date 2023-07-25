@@ -1,0 +1,4 @@
+Paradox 3 AVANT 16 inf
+AVANT 6 Paradox 16 inf
+AVANT 16 Paradox 11 trn
+AVANT 14 Paradox 16 mrg
